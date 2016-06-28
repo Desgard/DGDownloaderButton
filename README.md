@@ -3,4 +3,4 @@ Download Water Animation
 
 ## Screenshot
 
-![](shot.gif)
+<img src="shot.gif" alt="img" width="240px">
